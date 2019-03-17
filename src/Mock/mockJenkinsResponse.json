@@ -1,0 +1,44 @@
+{
+  "projectList": {
+    "DevopsDashboard": {
+      "projectName": "DevopsDashboard",
+      "sonarQube": {
+        "m_CodeCoverage": 0,
+        "m_CodeSmells": 0
+      },
+      "gitDataDM": {}
+    },
+    "iOS": {
+      "projectName": "iOS",
+      "sonarQube": {
+        "m_CodeCoverage": 0,
+        "m_CodeSmells": 0
+      },
+      "gitDataDM": {
+        "topCommiters": [],
+        "lastCommitString": "https://api.github.com/repos/kobi963/iOS-DevopsDashboard/commits/b00e713830e002131d29dacb078830c786f862ac"
+      }
+    },
+    "Android": {
+      "projectName": "Android",
+      "sonarQube": {
+        "m_CodeCoverage": 0,
+        "m_CodeSmells": 0
+      },
+      "gitDataDM": {
+        "topCommiters": [
+          "kobi963"
+        ],
+        "lastCommitString": "https://api.github.com/repos/kobi963/Android-DevopsDashboard/commits/490521d83314100996454ac589ed06aa765e4e96"
+      }
+    },
+    "pipeline-example": {
+      "projectName": "pipeline-example",
+      "sonarQube": {
+        "m_CodeCoverage": 0,
+        "m_CodeSmells": 0
+      },
+      "gitDataDM": {}
+    }
+  }
+}

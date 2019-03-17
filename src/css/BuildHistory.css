@@ -1,0 +1,21 @@
+.build-history-container{
+    width: 15%;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.build-history-header{
+    font-size: 14px;
+    padding: 3px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.build-number-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
